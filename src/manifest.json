@@ -1,6 +1,6 @@
 {
-  "name": "professional",
-  "short_name": "professional",
+  "name": "version",
+  "short_name": "version",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",

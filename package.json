@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "my-project",
-  "version": "0.0.1",
+  "name": "version",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "build": "preact build --prerenderUrls ./prerender-urls.js",
@@ -38,8 +38,7 @@
     "preact": "^10.0.0",
     "preact-cli-plugin-netlify": "^1.5.0",
     "preact-render-to-string": "^5.0.6",
-    "preact-router": "^3.0.1",
-    "parse-md": "^2.0.4"
+    "preact-router": "^3.0.1"
   },
   "jest": {
     "preset": "jest-preset-preact"
